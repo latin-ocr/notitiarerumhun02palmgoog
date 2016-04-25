@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./notitiarerumhun02palmgoog_0005.png"; bbox 0 0 2775 4567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 655 1507 2218 1714">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 655 1507 2218 1714">
+     <span class='ocr_line' id='line_1_1' title="bbox 655 1507 2218 1714; baseline 0.005 -44"><span class='ocrx_word' id='word_1_1' title='bbox 655 1507 2218 1714; x_wconf 57' lang='lat' dir='ltr'>fioT1T14‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 959 1829 1732 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 959 1829 1732 1919">
+     <span class='ocr_line' id='line_1_2' title="bbox 959 1829 1732 1919; baseline 0.009 -12"><span class='ocrx_word' id='word_1_2' title='bbox 959 1829 1732 1919; x_wconf 63' lang='lat' dir='ltr'>RERUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 2066 2400 2242">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 103 2066 2400 2242">
+     <span class='ocr_line' id='line_1_3' title="bbox 103 2066 2400 2242; baseline 0.007 -26"><span class='ocrx_word' id='word_1_3' title='bbox 103 2238 107 2242; x_wconf 47' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 284 2066 2400 2234; x_wconf 70' lang='lat' dir='ltr'>BUNGARICARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 536 2360 2208 2458">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 536 2360 2208 2458">
+     <span class='ocr_line' id='line_1_4' title="bbox 536 2360 2208 2458; baseline 0.016 -23"><span class='ocrx_word' id='word_1_5' title='bbox 536 2361 1092 2446; x_wconf 72' lang='lat' dir='ltr'>.B·ARS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1227 2360 2208 2458; x_wconf 80' lang='lat' dir='ltr'>SECUNDA·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
